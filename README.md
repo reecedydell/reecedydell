@@ -2,7 +2,7 @@
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshcybertest/LABURL)
+  - [Authorization Configuration Lab](https://github.com/reecedydell/AuthorizationConfigurationLab/blob/main/README.md)
 
 <h2>📜 Certifications:</h2>
   
