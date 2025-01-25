@@ -2,7 +2,7 @@
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
-  - [Authorization Configuration Lab](https://github.com/reecedydell/AuthorizationConfigurationLab/blob/main/README.md)
+  - [Authorization Configuration Lab](https://github.com/reecedydell/AuthorizationConfigurationLab)
 
 <h2>📜 Certifications:</h2>
   
