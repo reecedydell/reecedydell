@@ -2,7 +2,8 @@
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
-  - [Authorization Configuration Lab](https://github.com/reecedydell/AuthorizationConfigurationLab)
+  - [Configuring Authorizations](https://github.com/reecedydell/Configuring-Autorizations)
+  - [Applying Filters to SQL Queries](https://github.com/reecedydell/Filtering-SQL-Queries)
 
 <h2>📜 Certifications:</h2>
   
